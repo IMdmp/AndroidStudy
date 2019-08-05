@@ -116,8 +116,8 @@ public class GetLocationActivity extends AppCompatActivity  implements LocationL
         @Override
         public void run() {
 
-            final EditText yourlat = (EditText) findViewById(R.id.yourLat);
-            final EditText yourlong = (EditText) findViewById(R.id.yourLong);
+            final EditText yourlat = (EditText) findViewById(R.id.et_lat);
+            final EditText yourlong = (EditText) findViewById(R.id.et_long);
 
             try {
                 getLocation(); //this function can change value of mInterval.
