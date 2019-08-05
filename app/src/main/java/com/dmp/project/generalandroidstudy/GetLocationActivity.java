@@ -25,6 +25,8 @@ import com.karumi.dexter.listener.PermissionGrantedResponse;
 import com.karumi.dexter.listener.PermissionRequest;
 import com.karumi.dexter.listener.single.PermissionListener;
 
+import java.util.List;
+
 public class GetLocationActivity extends AppCompatActivity  implements LocationListener {
 
     private static final String TAG = "TAGHERE";
@@ -49,7 +51,10 @@ public class GetLocationActivity extends AppCompatActivity  implements LocationL
                     @Override
                     public void onPermissionGranted(PermissionGrantedResponse response) {
                         doCheckLocation();
+
                     }
+
+
 
                     @Override
                     public void onPermissionDenied(PermissionDeniedResponse response) {
@@ -177,4 +182,11 @@ public class GetLocationActivity extends AppCompatActivity  implements LocationL
     public void onProviderEnabled(String provider) {
 
     }
+
+
 }
+//got the nice answer from here:
+//https://stackoverflow.com/questions/17668917/how-to-get-the-coarse-location-using-wifi-or-gsm-or-gps-whichever-is-available
+
+//might need this too:
+//https://stackoverflow.com/questions/17668917/how-to-get-the-coarse-location-using-wifi-or-gsm-or-gps-whichever-is-available
