@@ -7,15 +7,15 @@ There are personal skill gaps that must be addressed in order to be a more profi
 - [ ] mockito
 - [ ] espresso 
 ## 3rd Party Libraries
-- [ ] Dagger2
+- [ ] [Dagger2](https://github.com/IMdmp/AndroidStudy/tree/dagger2study)
 - [ ] RxJava
 ## Skills
 - [ ] profiling
-- [ ] websocket programming(?)  -> paperless app .
+- [ ] websocket programming [paperless app](https://github.com/IMdmp/Paperless)
 - [ ] computer science problem solving in general 
 
 
-Probably Useful links:
+## Probably Useful links:	
 [Best Practice for multiple projects in github](https://stackoverflow.com/questions/14679614/whats-the-best-practice-for-putting-multiple-projects-in-a-git-repository)
 
 [Add an Android Studio Project to Github](https://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github)
