@@ -13,9 +13,14 @@ https://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-projec
 
 
 There are personal skill gaps that must be addressed in order to be a more proficient developer:
-[ ] Unit testing - >junit, mockito, espresso 
-[ ] Dagger2 deep dive.
-[ ] RxAndroid , RxJava, deep dive.
-[ ] profiling -> 
-[ ] websocket programming(?)  -> paperless app .
-[ ] computer science problem solving in general 
+## Unit testing:
+- [ ] junit
+- [ ] mockito
+- [ ] espresso 
+## 3rd Party Libraries
+- [ ] Dagger2
+- [ ] RxJava
+## Skills
+- [ ] profiling
+- [ ] websocket programming(?)  -> paperless app .
+- [ ] computer science problem solving in general 
