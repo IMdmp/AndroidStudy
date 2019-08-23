@@ -6,21 +6,27 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
+        android:name=".GeneralAndroidStudyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".scrollableradiobuttongroup.ScrollableRadioButtonGroupActivity">    <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+        <activity android:name=".custom_date_picker_with_constraints.CustomDatePickerActivity2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter></activity>
-        <activity android:name=".GetLocationFastestWay">
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".custom_date_picker_with_constraints.CustomDatePickerActivity" />
+        <activity android:name=".customprogressbar.CustomProgressBarActivity" />
+        <activity android:name=".scrollableradiobuttongroup.ScrollableRadioButtonGroupActivity">
 
         </activity>
-        <activity android:name=".GetLocationActivity"></activity>
+        <activity android:name=".GetLocationFastestWay" />
+        <activity android:name=".GetLocationActivity" />
         <activity android:name=".ShareSomethingActivity" />
         <activity android:name=".MainActivity" />
     </application>
