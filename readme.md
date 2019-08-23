@@ -19,3 +19,5 @@ There are personal skill gaps that must be addressed in order to be a more profi
 [Best Practice for multiple projects in github](https://stackoverflow.com/questions/14679614/whats-the-best-practice-for-putting-multiple-projects-in-a-git-repository)
 
 [Add an Android Studio Project to Github](https://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github)
+
+[Making a goodreadme](https://gist.githubusercontent.com/fvcproductions/1bfc2d4aecb01a834b46/raw/d8d38c44244b84f0a6e93c200617604eb91ca9cc/sampleREADME.md)
