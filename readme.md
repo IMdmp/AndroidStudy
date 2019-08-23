@@ -9,3 +9,13 @@ https://stackoverflow.com/questions/14679614/whats-the-best-practice-for-putting
 
 add an android studio project to github
 https://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github
+
+
+
+There are personal skill gaps that must be addressed in order to be a more proficient developer:
+[ ] Unit testing - >junit, mockito, espresso 
+[ ] Dagger2 deep dive.
+[ ] RxAndroid , RxJava, deep dive.
+[ ] profiling -> 
+[ ] websocket programming(?)  -> paperless app .
+[ ] computer science problem solving in general 
