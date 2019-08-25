@@ -1,7 +1,10 @@
 personal repo for studying various android components,view, tips,tricks.
 planning to make a nice collection of various learnings that can be found in one place needed to become a proficient android developer.
 
-There are personal skill gaps that must be addressed in order to be a more proficient developer:
+Also used as template to start new android study projects.
+
+
+Currently, these are the personal skill gaps that must be addressed in order to be a more proficient developer:
 ## Unit testing:
 - [ ] junit
 - [ ] mockito
