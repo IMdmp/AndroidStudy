@@ -10,7 +10,7 @@ Currently, these are the personal skill gaps that must be addressed in order to 
 - [ ] mockito
 - [ ] espresso 
 ## 3rd Party Libraries
-- [ ] [Dagger2](https://github.com/IMdmp/AndroidStudy/tree/dagger2study)
+- [ ] [Dagger2](https://github.com/IMdmp/AndroidDagger2Study)
 - [ ] RxJava
 ## Skills
 - [ ] profiling
